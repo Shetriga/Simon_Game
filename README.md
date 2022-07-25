@@ -1,5 +1,6 @@
 # Simon_Game
 Page Link: https://shetriga.github.io/Simon_Game/
+
 The Simon_Game is a fun quick game that tests your ability to remember patterns but in a game-like way.
 
 ********************How to play********************
